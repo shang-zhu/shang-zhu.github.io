@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined University of Michigan, Ann Arbor and will pursue my PhD degree in Mechanical Engineering and Scientific Computing. Go Blue!
+I transferred to University of Michigan, Ann Arbor with my PhD advisor, and will pursue my PhD degree in Mechanical Engineering and Scientific Computing here. Go Blue!

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Together AI
+# subtitle: Together AI
 
 # profile:
 #   align: right

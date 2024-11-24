@@ -27,6 +27,8 @@ subtitle: Together AI
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-I am a researcher at Together AI, working on efficient ML algorithms. I obtained my PhD degree at the University of Michigan, Master's at Carnegie Mellon University, and Bachelor's in Xi'an Jiaotong University. My general research interests lie in the intersection of computational intelligence, energy and environment. During my PhD research, I worked with [Dr. Venkat Viswanathan](https://aero.engin.umich.edu/people/viswanathan-venkat/) at U-M on designing computational algorithms for battery materials discovery. After graduation, I became motivated by the emerging field of large language models (LLM), and joined Together AI to build energy-efficient algorithms for LLM inference. 
+I am a researcher at Together AI, working on efficient ML algorithms. I obtained my PhD degree at the University of Michigan, and a Master's at Carnegie Mellon University. Prior to that, I did my undergradudate study at Xi'an Jiaotong University, China.
+
+My general research interests lie in the intersection of computational intelligence, energy and environment. During my PhD research, I worked with [Dr. Venkat Viswanathan](https://aero.engin.umich.edu/people/viswanathan-venkat/) at U-M on designing computational algorithms for battery materials discovery. After graduation, I became motivated by the emerging field of large language models (LLM), and joined Together AI to build energy-efficient algorithms for LLM inference. 
 
 I can be reached by: shangzhu at umich dot edu
